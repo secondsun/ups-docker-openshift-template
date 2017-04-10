@@ -1,0 +1,1 @@
+# ups-docker-openshift-template
