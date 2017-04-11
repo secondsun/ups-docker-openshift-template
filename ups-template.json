@@ -472,7 +472,7 @@
                         "-c",
                         "wget http://localhost:8080/ag-push "
                       ]
-                    },
+                    }
                 },
                 "env": [
                   {
